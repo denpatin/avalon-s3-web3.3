@@ -1,0 +1,6 @@
+[submodule "9_ryabchenko_denis"]
+	path = 9_ryabchenko_denis
+	url = https://github.com/nomod/my_ruby.git
+[submodule "7_kuchurina_anastasia"]
+	path = 7_kuchurina_anastasia
+	url = https://github.com/AStasyK/anakuc-ror.git
