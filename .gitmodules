@@ -4,3 +4,6 @@
 [submodule "7_kuchurina_anastasia"]
 	path = 7_kuchurina_anastasia
 	url = https://github.com/AStasyK/anakuc-ror.git
+[submodule "2_zaripova_dilyara"]
+	path = 2_zaripova_dilyara
+	url = https://github.com/DilyaZaripova/rubintest.git
