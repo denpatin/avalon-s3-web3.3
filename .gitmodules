@@ -7,3 +7,18 @@
 [submodule "2_zaripova_dilyara"]
 	path = 2_zaripova_dilyara
 	url = https://github.com/DilyaZaripova/rubintest.git
+[submodule "8_orlov_oleg"]
+	path = 8_orlov_oleg
+	url = https://github.com/Civility/orlruby.git
+[submodule "6_kostorubin_igor"]
+	path = 6_kostorubin_igor
+	url = https://github.com/kostrubin/rp.git
+[submodule "5_kostin_nikolay"]
+	path = 5_kostin_nikolay
+	url = https://github.com/NikolayKostin/Project.git
+[submodule "3_ivanov_alexander"]
+	path = 3_ivanov_alexander
+	url = https://github.com/OLEIVO/alxProject.git
+[submodule "1_ezhova_tatiana"]
+	path = 1_ezhova_tatiana
+	url = https://github.com/ezhova-ta/ezhovaproject.git
