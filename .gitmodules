@@ -22,3 +22,6 @@
 [submodule "1_ezhova_tatiana"]
 	path = 1_ezhova_tatiana
 	url = https://github.com/ezhova-ta/ezhovaproject.git
+[submodule "4-kolosova-elena"]
+	path = 4-kolosova-elena
+	url = https://github.com/klsva/Ruby-project.git
